@@ -18,8 +18,8 @@ This repository contains the video submission for our visit to the UTM Digital C
 - **Purpose:** Showcase the highlights of our visit to the UTM Digital Center.
 - **Created Using:**
   - **CapCut**: For editing the video.
-  - **Online Converter**: For converting the video to different formats.
-  - **Clideo**: For compressing the video with high quality.
+  - **Online Converter**: Used to compress the video size from **97.7 MB** to **53 MB**, and then further reduced it to **30 MB**.
+  - **Clideo**: Used to compress the video even more, reducing it from **30 MB** to **17 MB**, while maintaining quality.
 - **File Format:** MP4
 - **File Size:** Compressed for better upload and quality.
 - **Video Length:** 4:58 minutes
