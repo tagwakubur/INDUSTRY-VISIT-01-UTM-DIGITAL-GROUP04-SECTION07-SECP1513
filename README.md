@@ -22,6 +22,7 @@ This repository contains the video submission for our visit to the UTM Digital C
   - **Clideo**: For compressing the video with high quality.
 - **File Format:** MP4
 - **File Size:** Compressed for better upload and quality.
+- **Video Length:** 4:58 minutes
 
 ---
 
