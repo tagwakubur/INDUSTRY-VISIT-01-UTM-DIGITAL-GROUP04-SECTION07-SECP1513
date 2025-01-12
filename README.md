@@ -27,9 +27,8 @@ This repository contains the video submission for our visit to the UTM Digital C
 ---
 
 ## **Where to Find the Video**
-1. **Uploaded to GitHub** in this repository.
-2. **Uploaded to YouTube:** [View on YouTube](https://youtu.be/2ASIofzBHIo?si=mjDNPVRAvZU_TDDP)
-3. **University Platform:** Available on UTM’s e-learning system.
+1. **Uploaded to YouTube:** [View on YouTube](https://youtu.be/2ASIofzBHIo?si=mjDNPVRAvZU_TDDP)
+   
 
 ---
 
